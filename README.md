@@ -1,1 +1,1 @@
-Jogo de forca do curso da alura
+Jogo de forca do curso da alura !
